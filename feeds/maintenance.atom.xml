@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+ <title type="text">LGU Mating: Posts tagged 'maintenance'</title>
+ <link rel="self" href="lgu-mating.github.io/feeds\maintenance.atom.xml" />
+ <link href="lgu-mating.github.io/tags\maintenance.html" />
+ <id>urn:lgu-mating-github-io:-tags-maintenance-html</id>
+ <updated>2021-04-19T05:08:53Z</updated>
+ <entry>
+  <title type="text">Initial Commit</title>
+  <link rel="alternate" href="lgu-mating.github.io/2021\04\initial-commit.html?utm_source=maintenance&amp;utm_medium=Atom" />
+  <id>urn:lgu-mating-github-io:-2021-04-initial-commit-html</id>
+  <published>2021-04-19T05:08:53Z</published>
+  <updated>2021-04-19T05:08:53Z</updated>
+  <author>
+   <name>The Unknown Author</name></author>
+  <content type="html">
+&lt;p&gt;The LGU Mating website is now online. Enjoy expressing your love!&lt;/p&gt;</content></entry></feed>
